@@ -44,4 +44,25 @@
         align-items: center;
         /* height: 415px; */
 
-}}
+}
+.myprod-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .row-cont {
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    width: 550PX;
+    flex-direction: column;
+  }
+
+  .w-100 {
+    width: 100% !important;
+    height: 231px;
+  }
+
+
+
+
+}
