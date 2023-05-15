@@ -23,4 +23,25 @@
         width: 272%;
       }
 
-}
+      .allproductpage .heading {
+        background-color: rgb(240, 240, 240);
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 32px;
+      }
+      .product-container {
+        /* display: flex; */
+        /* flex-direction: row; */
+        background-color: rgb(255, 255, 255);
+        /* margin: 5px; */
+        /* width: 550px; */
+        border: 1px solid rgb(245, 245, 245);
+        box-shadow: 0px 0px 5px 0px grey;
+        justify-content: space-evenly;
+        padding: 10px;
+        align-items: center;
+        /* height: 415px; */
+
+}}
