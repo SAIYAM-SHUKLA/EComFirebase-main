@@ -16,3 +16,11 @@
     width: 100%;
 }
 /* new css added */
+
+
+@media screen and (max-width: 862px) {
+    .mini-product-container {
+        width: 272%;
+      }
+
+}
